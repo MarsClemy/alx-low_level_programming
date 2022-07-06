@@ -4,10 +4,11 @@
 /**
  * main - Entry point
  *
- * Return: nothing, return void
+ * Return: On success 0.
  */
 
-int main(void)
+int main.c()
+int _putchar(char _putchar)
 {
          _putchar('_');
          _putchar('p');
