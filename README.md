@@ -1,1 +1,1 @@
-I have started learning C programming with ALX
+More advanced pointers and arrays
